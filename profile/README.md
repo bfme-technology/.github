@@ -3,6 +3,6 @@ Lord of Wolf is a developer community founded by a student of Chitkara Universit
 
 ## Goal
 Goal of this community is to:
-[x] Give Students an industrial exposure
-[x] Collect funding for the inhouse project
-[X] Experiment with latest technology, to update whatever is there
+- [x] Give Students an industrial exposure
+- [x] Collect funding for the inhouse project
+- [x] Experiment with latest technology, to update whatever is there
