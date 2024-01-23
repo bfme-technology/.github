@@ -1,5 +1,5 @@
-# Lord of Wolfs
-Lord of Wolf is a developer community founded by a student of Chitkara University to create an comunity of Software Developers to create a good exposure environment for the students. 
+# BFME Technology
+BFME Technology is an Open Source Developer Community founded by a student of Chitkara University to create a community of Software Developers to create a good exposure environment for the students. 
 
 ## Goal
 Goal of this community is to:
