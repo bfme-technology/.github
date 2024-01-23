@@ -1,12 +1,5 @@
 # BFME Technology
-BFME Technology is an Open Source Developer Community founded by a student of Chitkara University to create a community of Software Developers to create a good exposure environment for the students. 
+Started as an online community to consult and support the Students, who are interested in C# - Electron Development Career. BFME Technology(Erstwhile Lord of Wolfs) is an Open Source Developer Community founded by a student of Chitkara University with a working IT professional, to create a community of Software Developers. But now the goal is shifting to Focusing on Product Development. 
 
 ## Goal
-Goal of this community is to:
-- [x] Give Students an industrial exposure
-- [x] Collect funding for the inhouse project
-- [x] Experiment with latest technology, so we could learn more
-
-Motto of this community is:
-
-> Learn to Grow
+The goal of the organization is to automate and develop the products that help you with your day-to-day job. Our interest involves Financials, Education, management, and More. 
